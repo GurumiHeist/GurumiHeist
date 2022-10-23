@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://discord.gg/EbUYr4RNq4"><img src="https://i.giphy.com/RThN0hOS2GO4M.gif" align="top" width="auto" height="80%"/></a><br><br>
+  <a href="https://discord.gg/EbUYr4RNq4"><img src="https://github.com/GurumiHeist/GurumiHeist/blob/main/productivity.png" align="top" width="auto" height="80%"/></a><br><br>
   <a href="https://discord.gg/EbUYr4RNq4" alt="Join our community"><img width="32px" src="https://i.imgur.com/OViZO8J.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://www.patreon.com/"><img width="32px" alt="Patreon" title="Patreon" src="https://i.imgur.com/0uVwkoZ.png"/></a>
