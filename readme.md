@@ -24,7 +24,7 @@ Hi 👋, I am **Gurumi** an enthusiastic and ambitious developer and community m
 
 - 💬 Ask me about **FiveM Servers**
 
-- 📫 Reach me out at **Gurumi Heist#4868** <a href="https://discord.gg/EbUYr4RNq4" alt="Join our community"><img align="top" src="https://i.imgur.com/OViZO8J.png" alt="GurumiHeist" height="20" width="20" /></a>
+- 📫 Reach me out at **Gurumi#2777** <a href="https://discord.gg/EbUYr4RNq4" alt="Join our community"><img align="top" src="https://i.imgur.com/OViZO8J.png" alt="GurumiHeist" height="20" width="20" /></a>
 
 </div>
 
